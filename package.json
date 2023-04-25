@@ -1,20 +1,20 @@
 {
-  "name": "ios-test-app",
-  "description": "iOS app for testing",
+  "name": "sample-ios-application-for-building",
+  "description": "iOS app for testing. Forked from https://github.com/appium/ios-test-app due to EINTEGRITY issues on npm",
   "keywords": [
     "appium",
     "ios",
     "testapp"
   ],
   "version": "3.1.0",
-  "author": "appium",
+  "author": "N/A",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/ios-test-app.git"
+    "url": "https://github.com/meerkatriptide/sample-ios-application-for-building"
   },
   "bugs": {
-    "url": "https://github.com/appium/ios-test-app/issues"
+    "url": "https://github.com/meerkatriptide/sample-ios-application-for-building/issues"
   },
   "engines": {
     "node": ">=12"

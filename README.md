@@ -1,4 +1,7 @@
-# ios-test-app
+# sample-ios-application-for-building
+
+Forked from https://github.com/appium/ios-test-app for purpose of publishing new npm package, as the package from Appium is causing EINTEGRITY issues during npm install.
+
 
 A simple test application for iOS, used by [Appium](https://github.com/appium/appium) for certain tests.
 
